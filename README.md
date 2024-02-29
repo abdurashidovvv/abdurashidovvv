@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Android Development**
 
-- 🤝 I’m looking for help with **CMP**
+- 🤝 I’m looking for help with **KMM**
 
 - 👨‍💻 All of my projects are available at [https://t.me/mobiler_portfolio](https://t.me/mobiler_portfolio)
 
