@@ -47,3 +47,8 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
 </p>
+
+
+<h3 align="left">Github Stats: </h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true)
