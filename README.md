@@ -15,9 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/saydullo-abdurashidov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saydullo-abdurashidov" height="30" width="40" /></a>
-  <a href="https://fb.com/saydullo.abdurashidov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saydullo.abdurashidov" height="30" width="40" /></a>
-  <a href="https://instagram.com/saydullo_abdurashidov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saydullo_abdurashidov" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/saydullo-abdurashidov" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saydullo-abdurashidov" height="30" width="40" />
+  </a>
+  <a href="https://t.me/Saydullo_Abdurashidov" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="saydullo_abdurashidov" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
