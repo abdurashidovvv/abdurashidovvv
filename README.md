@@ -51,4 +51,5 @@
 
 <h3 align="left">Github Stats: </h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true&bg_color=000000)
+
