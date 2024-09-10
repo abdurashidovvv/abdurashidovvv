@@ -6,12 +6,20 @@ I'm a passionate **Android Developer** from Uzbekistan. I have a strong focus on
 
 ### 🛠️ My Tech Stack
 
-- **Languages**: Kotlin, Java, Dart (Flutter)
-- **Frameworks/Platforms**: Android (Jetpack Compose, XML), Firebase, Flutter
-- **Database**: Room, SQLite, Firebase Firestore
-- **Version Control**: Git & GitHub
-- **Tools**: Android Studio, Xcode, Gradle, Dagger Hilt, Retrofit
-- **Others**: REST APIs, MVVM, Clean Architecture, Coroutines, Flow
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%2361DAFB.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Retrofit-%2300599C.svg?style=for-the-badge&logo=retrofit&logoColor=white" alt="Retrofit" />
+</p>
 
 ---
 
