@@ -39,7 +39,7 @@ I'm a passionate **Android Developer** from Uzbekistan. I have a strong focus on
 
 ### 📫 How to reach me:
 
-- **Telegram**: [@saydullo](https://t.me/Saydullo_Abdurashidov)
+- **Telegram**: [@Saydullo_Abdurashidov](https://t.me/Saydullo_Abdurashidov)
 - **LinkedIn**: [Saydullo Abdurashidov](https://linkedin.com/in/saydullo-abdurashidov)
 - **Email**: abdurashidovsaydullo35@gmail.com
 
