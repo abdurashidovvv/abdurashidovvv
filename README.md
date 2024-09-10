@@ -17,9 +17,8 @@ I'm a passionate **Android Developer** from Uzbekistan. I have a strong focus on
 
 ### 🔥 My GitHub Stats
 
-[![Saydullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true&theme=tokyonight)](https://github.com/abdurashidovvv)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurashidovvv&layout=compact&theme=tokyonight)](https://github.com/abdurashidovvv)
+| <img src="https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true&theme=tokyonight" alt="Saydullo's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurashidovvv&layout=compact&theme=tokyonight" alt="Top Languages" /> |
+| --- | --- |
 
 ---
 
