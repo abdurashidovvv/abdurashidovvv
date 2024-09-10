@@ -1,55 +1,51 @@
-<h1 align="center">Hi 👋, I'm Saydullo</h1>
-<h3 align="center">I'm an Android developer from Uzbekistan</h3>
+# Hi there, I'm Saydullo Abdurashidov! 👋
 
-- 🔭 I’m currently working on **QuranApp**
+I'm a passionate **Android Developer** from Uzbekistan. I have a strong focus on **Jetpack Compose**, **Kotlin**, and **Clean Architecture**. I love building high-performance mobile applications that solve real-world problems and provide value to users.
 
-- 🌱 I’m currently learning **Jetpack Compose**
+---
 
-- 👯 I’m looking to collaborate on **Android Development**
+### 🛠️ My Tech Stack
 
-- 🤝 I’m looking for help with **Jetpack Compose**
+- **Languages**: Kotlin, Java, Dart (Flutter)
+- **Frameworks/Platforms**: Android (Jetpack Compose, XML), Firebase, Flutter
+- **Database**: Room, SQLite, Firebase Firestore
+- **Version Control**: Git & GitHub
+- **Tools**: Android Studio, Xcode, Gradle, Dagger Hilt, Retrofit
+- **Others**: REST APIs, MVVM, Clean Architecture, Coroutines, Flow
 
-- 💬 Ask me about **Java, Kotlin, Android, Clean Architecture**
+---
 
-- 📫 How to reach me **abdurashidovsaydullo35@gmail.com**
+### 🔥 My GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/saydullo-abdurashidov" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saydullo-abdurashidov" height="30" width="40" />
-  </a>
-  <a href="https://t.me/Saydullo_Abdurashidov" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="saydullo_abdurashidov" height="30" width="30" />
-  </a>
-</p>
+[![Saydullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true&theme=tokyonight)](https://github.com/abdurashidovvv)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurashidovvv&layout=compact&theme=tokyonight)](https://github.com/abdurashidovvv)
 
+---
 
-<h3 align="left">Github Stats: </h3>
+### 🚀 My Current Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurashidovvv&show_icons=true&bg_color=000000)
+- **[JetChat]([https://github.com/abdurashidovvv/quran-app](https://github.com/abdurashidovvv/JetChat.git))**: A Simple Chatting Application with Firebase Cloud.
+- **[Quran App]([https://github.com/your-username/music-player](https://github.com/abdurashidovvv/Quran.git))**: An app for Quran reading with surah and ayah management.
+
+---
+
+### 🌱 What I’m Learning
+
+- Expanding my knowledge in **Kotlin Multiplatform** to become a ios and android developer.
+- Learning **Flutter** for cross-platform mobile development.
+
+---
+
+### 📫 How to reach me:
+
+- **Telegram**: [@saydullo](https://t.me/Saydullo_Abdurashidov)
+- **LinkedIn**: [Saydullo Abdurashidov](https://linkedin.com/in/saydullo-abdurashidov)
+- **Email**: abdurashidovsaydullo35@gmail.com
+
+---
+
+### ✨ Fun fact
+
+I love exploring new technologies, and I'm a big fan of clean, well-structured code. 🚀
 
